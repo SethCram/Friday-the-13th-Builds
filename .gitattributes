@@ -4,4 +4,3 @@
 WebGLBuild/Build/*.data.unityweb filter=lfs diff=lfs merge=lfs -text
 **.data.unityweb filter=lfs diff=lfs merge=lfs -text
 *.data.unityweb filter=lfs diff=lfs merge=lfs -text
-*code.unityweb* filter=lfs diff=lfs merge=lfs -text
