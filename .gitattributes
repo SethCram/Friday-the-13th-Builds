@@ -1,7 +1,7 @@
 # Add executable files to git lfs
 *.exe filter=lfs diff=lfs merge=lfs -text
-
 # Add large webGL file to git lfs
 WebGLBuild/Build/*.data.unityweb filter=lfs diff=lfs merge=lfs -text
 **.data.unityweb filter=lfs diff=lfs merge=lfs -text
 *.data.unityweb filter=lfs diff=lfs merge=lfs -text
+*code.unityweb* filter=lfs diff=lfs merge=lfs -text
